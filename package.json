@@ -1,0 +1,15 @@
+{
+  "name": "apinodetypescript",
+  "version": "1.0.0",
+  "description": "apinodetypescript_com_npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "RicardoG",
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
